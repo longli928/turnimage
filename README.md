@@ -1,1 +1,1 @@
-# turnimage
+Python3脚本，使用pillow库对图像批量旋转处理
